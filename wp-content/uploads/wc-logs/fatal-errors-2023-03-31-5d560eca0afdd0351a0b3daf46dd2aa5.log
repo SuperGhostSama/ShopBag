@@ -1,0 +1,50 @@
+2023-03-31T11:00:47+00:00 CRITICAL Uncaught Error: Undefined constant "FILE" in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs-Plugin\contact-us-plugin.php:127
+Stack trace:
+#0 C:\laragon\www\Wordpress\wp-includes\class-wp-hook.php(308): contact_us_plugin_enqueue_style('')
+#1 C:\laragon\www\Wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\laragon\www\Wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\Wordpress\wp-includes\script-loader.php(2194): do_action('wp_enqueue_scri...')
+#4 C:\laragon\www\Wordpress\wp-includes\class-wp-hook.php(308): wp_enqueue_scripts('')
+#5 C:\laragon\www\Wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 C:\laragon\www\Wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\laragon\www\Wordpress\wp-includes\general-template.php(3049): do_action('wp_head')
+#8 C:\laragon\www\Wordpress\wp-content\themes\blocksy\header.php(21): wp_head()
+#9 C:\laragon\www\Wordpress\wp-includes\template.php(783): require_once('C:\\laragon\\www\\...')
+#10 C:\laragon\www\Wordpress\wp-includes\template.php(718): load_template('C:\\laragon\\www\\...', true, Array)
+#11 C:\laragon\www\Wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#12 C:\laragon\www\Wordpress\wp-content\themes\blocksy\single.php(10): get_header()
+#13 C:\laragon\www\Wordpress\wp-includes\template.php(785): require('C:\\laragon\\www\\...')
+#14 C:\laragon\www\Wordpress\wp-includes\template.php(718): load_template('C:\\laragon\\www\\...', false, Array)
+#15 C:\laragon\www\Wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#16 C:\laragon\www\Wordpress\wp-content\themes\blocksy\page.php(15): get_template_part('single')
+#17 C:\laragon\www\Wordpress\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#18 C:\laragon\www\Wordpress\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#19 C:\laragon\www\Wordpress\index.php(17): require('C:\\laragon\\www\\...')
+#20 {main}
+  thrown in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs-Plugin\contact-us-plugin.php on line 127
+
+2023-03-31T11:00:52+00:00 CRITICAL Uncaught Error: Undefined constant "FILE" in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs-Plugin\contact-us-plugin.php:127
+Stack trace:
+#0 C:\laragon\www\Wordpress\wp-includes\class-wp-hook.php(308): contact_us_plugin_enqueue_style('')
+#1 C:\laragon\www\Wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\laragon\www\Wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\Wordpress\wp-includes\script-loader.php(2194): do_action('wp_enqueue_scri...')
+#4 C:\laragon\www\Wordpress\wp-includes\class-wp-hook.php(308): wp_enqueue_scripts('')
+#5 C:\laragon\www\Wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 C:\laragon\www\Wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\laragon\www\Wordpress\wp-includes\general-template.php(3049): do_action('wp_head')
+#8 C:\laragon\www\Wordpress\wp-content\themes\blocksy\header.php(21): wp_head()
+#9 C:\laragon\www\Wordpress\wp-includes\template.php(783): require_once('C:\\laragon\\www\\...')
+#10 C:\laragon\www\Wordpress\wp-includes\template.php(718): load_template('C:\\laragon\\www\\...', true, Array)
+#11 C:\laragon\www\Wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#12 C:\laragon\www\Wordpress\wp-content\themes\blocksy\single.php(10): get_header()
+#13 C:\laragon\www\Wordpress\wp-includes\template.php(785): require('C:\\laragon\\www\\...')
+#14 C:\laragon\www\Wordpress\wp-includes\template.php(718): load_template('C:\\laragon\\www\\...', false, Array)
+#15 C:\laragon\www\Wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#16 C:\laragon\www\Wordpress\wp-content\themes\blocksy\page.php(15): get_template_part('single')
+#17 C:\laragon\www\Wordpress\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#18 C:\laragon\www\Wordpress\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#19 C:\laragon\www\Wordpress\index.php(17): require('C:\\laragon\\www\\...')
+#20 {main}
+  thrown in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs-Plugin\contact-us-plugin.php on line 127
+

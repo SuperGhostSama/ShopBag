@@ -1,0 +1,12 @@
+2023-03-30T15:19:53+00:00 CRITICAL Cannot redeclare contact_us_plugin_activation() (previously declared in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs Plugin\contact-us-plugin.php:9) in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs Plugin\contact-us-plugin.php on line 132
+
+2023-03-30T15:19:57+00:00 CRITICAL Cannot redeclare contact_us_plugin_activation() (previously declared in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs Plugin\contact-us-plugin.php:9) in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs Plugin\contact-us-plugin.php on line 132
+
+2023-03-30T15:19:57+00:00 CRITICAL Cannot redeclare contact_us_plugin_activation() (previously declared in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs Plugin\contact-us-plugin.php:9) in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs Plugin\contact-us-plugin.php on line 132
+
+2023-03-30T15:21:49+00:00 CRITICAL Cannot redeclare contact_us_plugin_activation() (previously declared in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs-Plugin\contact-us-plugin.php:9) in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs-Plugin\contact-us-plugin.php on line 132
+
+2023-03-30T15:21:52+00:00 CRITICAL Cannot redeclare contact_us_plugin_activation() (previously declared in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs-Plugin\contact-us-plugin.php:9) in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs-Plugin\contact-us-plugin.php on line 132
+
+2023-03-30T15:21:52+00:00 CRITICAL Cannot redeclare contact_us_plugin_activation() (previously declared in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs-Plugin\contact-us-plugin.php:9) in C:\laragon\www\Wordpress\wp-content\plugins\ContactUs-Plugin\contact-us-plugin.php on line 132
+
